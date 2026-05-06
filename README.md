@@ -23,7 +23,7 @@ Strategic professional with a Master's in Industrial Engineering from Telkom Uni
 ## Selected Projects
 
 ### International MOOC Development (KOICA Tendering) | Project Management PIC
-*Jan - Mar 2026*
+*Feb 2026*
 - Developed a comprehensive Project Management Plan for a large-scale digital education system under international standards.
 - Designed critical artifacts: Stakeholder Engagement Analysis, Project Organization Chart, WBS, Project Personnel Plan, Project Deliverables and Reporting Schedule, Promotion Plan, Pilot Operation Plan, Operational Support for Deliverables and Maintenance Commitment, Workflow of Reporting within high-pressure deadlines.
 
