@@ -1,20 +1,20 @@
-# International MOOC Development (KOICA Tender)
-**Role:** Project Management PIC | **Timeline:** Feb 2026 (10-Day Deadline)
+[Case Study] Strategic Project Management Plan: International MOOC Development (KOICA Tender)
 
 ## Project Overview
 Developing a comprehensive Project Management Plan (PMP) for a large-scale digital education system (MOOC) intended for international tender. The project required high-detail accuracy and alignment with global standards.
 
-## My Responsibilities & Contributions
-- **Project Planning:** Architected the Work Breakdown Structure (WBS) and detailed Gantt Charts to ensure all project phases were measurable.
-- **Standards Compliance:** Ensured all project artifacts aligned with **ISO/IEC/IEEE** standards for quality and risk management.
-- **Resource Management:** Formulated a Personnel Plan and budget allocation for technical teams.
-- **Quality Assurance:** Designed a **PDCA (Plan-Do-Check-Act)** framework to maintain high-detail accuracy in the technical proposal.
-- **Sustainability:** Developed a post-project roadmap covering technical maintenance and human resource capacity building.
+## Executive Summary
+As the Project Management PIC for PT. Elektro Informatika Utama ITB (EIU-ITB), I orchestrated a comprehensive management proposal for a large-scare international digital educatoin system (MOOC) system. This framework was developed during a high-intensity 10-day sprint, requiring seamless coordination with the Project Director to align technical excellence with international tender requirements.
 
-## Key Deliverables
-- [V] **WBS & Gantt Chart:** (You can describe the complexity here, e.g., "Covering 5+ work streams").
-- [V] **Quality Assurance Plan:** Detailed mitigation and response measures.
-- [V] **Sustainability Roadmap:** Strategic plan for long-term project viability.
+## Strategic Governance and Stakeholder Management
+- Advance stakeholder assessment: developed a **Stakeholder Engagement Analysis** integrated with a **Stakeholder Commitment Scale** to objectively assess and manage engagement levels.
+- Actionable Parameters: Established **Key Operational Parameters** to transform theoretical stakeholder engagement into a measureable, actionable execution plan.
+- **Agile Organization Desing:** Architected a project organization chart using a **Scrum-based framework** to ensure synchronized communication and structural agility across the project lifecycle.
 
-## Key Learnings
+## Operational Framework and Traceability
+- Granular WBS Structure: decomposed the project into **10 Primary Work Packages**, enabling Software Development PM and Scrum Master to precisely track the progress of every unit.
+- Multi-Tier Reporting SOPs: authored a rigorous Standard Operating Procedure (SOP) for progress reporting, defining specific requirements for daily, weekly, monthly, quarterly, and annual deliverables.
+- Configuration 
+
+## Key Learnings & Reflections
 Managed to deliver high-impact results within a 10-day high-pressure environment, demonstrating strong proficiency in strategic planning and technical documentation.
