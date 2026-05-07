@@ -1,4 +1,5 @@
-## [Case Study] Strategic Project Management Plan: International MOOC Development (KOICA Tender)
+# Case Study: International MOOC Development
+### Strategic Project Management Plan for KOICA Tender
 
 ## Project Overview
 Developing a comprehensive Project Management Plan (PMP) for a large-scale digital education system (MOOC) intended for international tender. The project required high-detail accuracy and alignment with global standards.
@@ -28,6 +29,7 @@ As the Project Management PIC for PT. Elektro Informatika Utama ITB (EIU-ITB), I
 
 ## Key Learnings & Reflections
 While this project was executed within an intensive 10-day sprint, the complexity and high-stakes nature of an international tender provided deep professional growth that often takes months to acquire. Here is what I took away from the experience:
+
 - Working as the only Industrial Engineer in a room full of Informatics specialist taught me that **effective Project Management is about communication**, not just charts. I had to **quickly learn** the "language" of system equipment and software development (Open edX) to **ensure that management proposal wasn't just theoretically sound, but technically feasible**.
 - Deciphering KOICA's highly detailed requirements while simultaneously conducting a 3-day deep dive into specialized PM frameworks was a test of "Strategic Agility". I learned that in a high-pressure environment, **perfection is built through rapid interations and a solid foundation in standards**, which act as a compass when the deadline is tight.
 - A key realization was that risk management isn't just a separate document; it is the backbone of the project. By identifying 50+ specific risk points and integrating them directly into the software engineering life cycle, I understood how to protect both the project's timeline and the organization's integrity in a global-scale execution.
