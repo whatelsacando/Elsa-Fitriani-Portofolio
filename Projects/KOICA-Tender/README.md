@@ -2,7 +2,8 @@
   <h1>[Case Study: International MOOC Development]</h1>
   <h2>Strategic Project Management Plan for KOICA Tender</h2>
 </div>
----
+
+
 ## Project Overview
 Developing a comprehensive Project Management Plan (PMP) for a large-scale digital education system (MOOC) intended for international tender. The project required high-detail accuracy and alignment with global standards.
 
