@@ -12,6 +12,10 @@ As the Project Management PIC for PT. Elektro Informatika Utama ITB (EIU-ITB), I
 
 ## Strategic Governance and Stakeholder Management
 - Advance stakeholder assessment: developed a **Stakeholder Engagement Analysis** integrated with a **Stakeholder Commitment Scale** to objectively assess and manage engagement levels.
+<p align="center">
+ <img src="Assets/sh-analysis.jpg" width="80%" alt="Detailed Stakeholder Engagement Analysis">
+</p>
+
 - Actionable Parameters: Established **Key Operational Parameters** to transform theoretical stakeholder engagement into a measureable, actionable execution plan.
 - **Agile Organization Design:** Architected a project organization chart using a **Scrum-based framework** to ensure synchronized communication and structural agility across the project lifecycle.
 
